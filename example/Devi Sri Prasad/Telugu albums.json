@@ -1,0 +1,482 @@
+[
+    {
+        "Album": "1",
+        "Director": "Kodi Ramakrishna",
+        "Film": "Devi",
+        "Year": "1999"
+    },
+    {
+        "Album": "2",
+        "Director": "Kodi Ramakrishna",
+        "Film": "Navvuthu Bathakalira",
+        "Year": "2001"
+    },
+    {
+        "Album": "3",
+        "Director": "Srinu Vaitla",
+        "Film": "Anandam",
+        "Year": "2001"
+    },
+    {
+        "Album": "4",
+        "Director": "R. Raghuraj",
+        "Film": "Kalusukovalani",
+        "Year": "2002"
+    },
+    {
+        "Album": "5",
+        "Director": "Krishna Vamsi",
+        "Film": "Khadgam",
+        "Year": "2002"
+    },
+    {
+        "Album": "6",
+        "Director": "K. Vijaya Bhaskar",
+        "Film": "Manmadhudu",
+        "Year": "2002"
+    },
+    {
+        "Album": "7",
+        "Director": "E. V. V. Satyanarayana",
+        "Film": "Thotti Gang",
+        "Year": "2002"
+    },
+    {
+        "Album": "8",
+        "Director": "Srinu Vaitla",
+        "Film": "Sontham",
+        "Year": "2002"
+    },
+    {
+        "Album": "9",
+        "Director": "Sobhan",
+        "Film": "Varsham",
+        "Year": "2003"
+    },
+    {
+        "Album": "10",
+        "Director": "Srinu Vaitla",
+        "Film": "Venky",
+        "Year": "2004"
+    },
+    {
+        "Album": "11",
+        "Director": "Kiran",
+        "Film": "Abhi",
+        "Year": "2004"
+    },
+    {
+        "Album": "12",
+        "Director": "Sukumar",
+        "Film": "Arya",
+        "Year": "2004"
+    },
+    {
+        "Album": "13",
+        "Director": "Jayanth C. Paranjee",
+        "Film": "Shankar Dada M.B.B.S.",
+        "Year": "2004"
+    },
+    {
+        "Album": "14",
+        "Director": "Raghava Lawrence",
+        "Film": "Mass",
+        "Year": "2004"
+    },
+    {
+        "Album": "15",
+        "Director": "Vara Mullapudi",
+        "Film": "Naa Alludu",
+        "Year": "2005"
+    },
+    {
+        "Album": "16",
+        "Director": "Prabhu Deva",
+        "Film": "Nuvvostanante Nenoddantana",
+        "Year": "2005"
+    },
+    {
+        "Album": "17",
+        "Director": "V.V. Vinayak",
+        "Film": "Bunny",
+        "Year": "2005"
+    },
+    {
+        "Album": "18",
+        "Director": "Boyapati Srinu",
+        "Film": "Bhadra",
+        "Year": "2005"
+    },
+    {
+        "Album": "19",
+        "Director": "Ramesh Varma",
+        "Film": "Oka Oorilo",
+        "Year": "2005"
+    },
+    {
+        "Album": "20",
+        "Director": "Srinu Vaitla",
+        "Film": "Andarivadu",
+        "Year": "2005"
+    },
+    {
+        "Album": "21",
+        "Director": "Prabhu Deva",
+        "Film": "Pournami",
+        "Year": "2006"
+    },
+    {
+        "Album": "22",
+        "Director": "Bhaskar",
+        "Film": "Bommarillu",
+        "Year": "2006"
+    },
+    {
+        "Album": "23",
+        "Director": "Krishna Vamsi",
+        "Film": "Rakhi",
+        "Year": "2006"
+    },
+    {
+        "Album": "24",
+        "Director": "Sukumar",
+        "Film": "Jagadam",
+        "Year": "2007"
+    },
+    {
+        "Album": "25",
+        "Director": "V. N. Aditya",
+        "Film": "Aata",
+        "Year": "2007"
+    },
+    {
+        "Album": "26",
+        "Director": "Prabhu Deva",
+        "Film": "Shankar Dada Zindabad",
+        "Year": "2007"
+    },
+    {
+        "Album": "27",
+        "Director": "Boyapati Srinu",
+        "Film": "Tulasi",
+        "Year": "2007"
+    },
+    {
+        "Album": "28",
+        "Director": "Trivikram Srinivas",
+        "Film": "Jalsa",
+        "Year": "2008"
+    },
+    {
+        "Album": "29",
+        "Director": "Srinu Vaitla",
+        "Film": "Ready",
+        "Year": "2008"
+    },
+    {
+        "Album": "30",
+        "Director": "Srinu Vaitla",
+        "Film": "King",
+        "Year": "2008"
+    },
+    {
+        "Album": "31",
+        "Director": "Palnati Surya Pratap",
+        "Film": "Current",
+        "Year": "2009"
+    },
+    {
+        "Album": "32",
+        "Director": "Sukumar",
+        "Film": "Arya 2",
+        "Year": "2009"
+    },
+    {
+        "Album": "33",
+        "Director": "V.V. Vinayak",
+        "Film": "Adhurs",
+        "Year": "2009"
+    },
+    {
+        "Album": "34",
+        "Director": "Srinu Vaitla",
+        "Film": "Namo Venkatesa",
+        "Year": "2010"
+    },
+    {
+        "Album": "35",
+        "Director": "K.R.K. Pavan",
+        "Film": "Sye Aata",
+        "Year": "2010"
+    },
+    {
+        "Album": "36",
+        "Director": "Dasaradh",
+        "Film": "Mr.Perfect",
+        "Year": "2011"
+    },
+    {
+        "Album": "37",
+        "Director": "Sukumar",
+        "Film": "100% Love",
+        "Year": "2011"
+    },
+    {
+        "Album": "38",
+        "Director": "Ajay Bhuyan",
+        "Film": "Dhada",
+        "Year": "2011"
+    },
+    {
+        "Album": "39",
+        "Director": "Surender Reddy",
+        "Film": "Oosaravelli",
+        "Year": "2011"
+    },
+    {
+        "Album": "40",
+        "Director": "Harish Shankar",
+        "Film": "Gabbar Singh",
+        "Year": "2012"
+    },
+    {
+        "Album": "41",
+        "Director": "Trivikram Srinivas",
+        "Film": "Julayi",
+        "Year": "2012"
+    },
+    {
+        "Album": "42",
+        "Director": "Srinivasa Reddy",
+        "Film": "Damarukam",
+        "Year": "2012"
+    },
+    {
+        "Album": "43",
+        "Director": "Parasuram",
+        "Film": "Sarocharu",
+        "Year": "2012"
+    },
+    {
+        "Album": "44",
+        "Director": "Koratala Siva",
+        "Film": "Mirchi",
+        "Year": "2013"
+    },
+    {
+        "Album": "45",
+        "Director": "Puri Jagannadh",
+        "Film": "Iddarammayilatho",
+        "Year": "2013"
+    },
+    {
+        "Album": "46",
+        "Director": "Vamsi Paidipally",
+        "Film": "Yevadu",
+        "Year": "2013"
+    },
+    {
+        "Album": "47",
+        "Director": "Trivikram Srinivas",
+        "Film": "Attarintiki Daredi",
+        "Year": "2013"
+    },
+    {
+        "Album": "48",
+        "Director": "Veerabhadram",
+        "Film": "Bhai",
+        "Year": "2013"
+    },
+    {
+        "Album": "49",
+        "Director": "Sukumar",
+        "Film": "1: Nenokkadine",
+        "Year": "2013"
+    },
+    {
+        "Album": "50",
+        "Director": "Boyapati Srinu",
+        "Film": "Legend",
+        "Year": "2014"
+    },
+    {
+        "Album": "51",
+        "Director": "V. V. Vinayak",
+        "Film": "Alludu Seenu",
+        "Year": "2014"
+    },
+    {
+        "Album": "52",
+        "Director": "Trivikram Srinivas",
+        "Film": "S/O Satyamurthy",
+        "Year": "2015"
+    },
+    {
+        "Album": "53",
+        "Director": "Koratala Siva",
+        "Film": "Srimanthudu",
+        "Year": "2015"
+    },
+    {
+        "Album": "54",
+        "Director": "Sreenivasa Reddy",
+        "Film": "Shivam",
+        "Year": "2015"
+    },
+    {
+        "Album": "55",
+        "Director": "Palnati Surya Pratap",
+        "Film": "Kumari 21F",
+        "Year": "2015"
+    },
+    {
+        "Album": "56",
+        "Director": "Kishore Tirumala",
+        "Film": "Nenu Sailaja",
+        "Year": "2015"
+    },
+    {
+        "Album": "57",
+        "Director": "Sukumar",
+        "Film": "Nannaku Prematho",
+        "Year": "2016"
+    },
+    {
+        "Album": "58",
+        "Director": "K. S. Ravindra",
+        "Film": "Sardaar Gabbar Singh",
+        "Year": "2016"
+    },
+    {
+        "Album": "59",
+        "Director": "Koratala Siva",
+        "Film": "Janatha Garage",
+        "Year": "2016"
+    },
+    {
+        "Album": "60",
+        "Director": "V.V. Vinayak",
+        "Film": "Khaidi No. 150",
+        "Year": "2017"
+    },
+    {
+        "Album": "61",
+        "Director": "Trinadha Rao Nakkina",
+        "Film": "Nenu Local",
+        "Year": "2017"
+    },
+    {
+        "Album": "62",
+        "Director": "Kalyan Krishna Kurasala",
+        "Film": "Rarandoi Veduka Chudham",
+        "Year": "2017"
+    },
+    {
+        "Album": "63",
+        "Director": "Harish Shankar",
+        "Film": "Duvvada Jagannadham",
+        "Year": "2017"
+    },
+    {
+        "Album": "64",
+        "Director": "Boyapati Srinu",
+        "Film": "Jaya Janaki Nayaka",
+        "Year": "2017"
+    },
+    {
+        "Album": "65",
+        "Director": "K. S. Ravindra",
+        "Film": "Jai Lava Kusa",
+        "Year": "2017"
+    },
+    {
+        "Album": "66",
+        "Director": "Kishore Tirumala",
+        "Film": "Vunnadhi Okate Zindagi",
+        "Year": "2017"
+    },
+    {
+        "Album": "67",
+        "Director": "Venu Sree Raam",
+        "Film": "MCA (Middle Class Abbayi)",
+        "Year": "2017"
+    },
+    {
+        "Album": "68",
+        "Director": "Sukumar",
+        "Film": "Rangasthalam",
+        "Year": "2018"
+    },
+    {
+        "Album": "69",
+        "Director": "Koratala Siva",
+        "Film": "Bharat Ane Nenu",
+        "Year": "2018"
+    },
+    {
+        "Album": "70",
+        "Director": "Trinadha Rao Nakkina",
+        "Film": "Hello Guru Prema Kosame",
+        "Year": "2018"
+    },
+    {
+        "Album": "71",
+        "Director": "Boyapati Srinu",
+        "Film": "Vinaya Vidheya Rama",
+        "Year": "2019"
+    },
+    {
+        "Album": "72",
+        "Director": "Anil Ravipudi",
+        "Film": "F2 \u2013 Fun and Frustration",
+        "Year": "2019"
+    },
+    {
+        "Album": "73",
+        "Director": "Kishore Tirumala",
+        "Film": "Chitralahari",
+        "Year": "2019"
+    },
+    {
+        "Album": "74",
+        "Director": "Vamsi Paidipally",
+        "Film": "Maharshi",
+        "Year": "2019"
+    },
+    {
+        "Album": "75",
+        "Director": "Anil Ravipudi",
+        "Film": "Sarileru Neekevvaru",
+        "Year": "2020"
+    },
+    {
+        "Album": "76",
+        "Director": "Buchibabu Sana",
+        "Film": "Uppena",
+        "Year": "2020"
+    },
+    {
+        "Album": "77",
+        "Director": "Santosh Srinivas",
+        "Film": "Alludu Adhurs",
+        "Year": "2020"
+    },
+    {
+        "Album": "78",
+        "Director": "Nagesh Kukunoor",
+        "Film": "Good luck Sakhi",
+        "Year": "2020"
+    },
+    {
+        "Album": "79",
+        "Director": "Venki Atluri",
+        "Film": "Rang De",
+        "Year": "2020"
+    },
+    {
+        "Album": "80",
+        "Director": "Sukumar",
+        "Film": "Allu Arjun 20",
+        "Year": "2020"
+    }
+]
