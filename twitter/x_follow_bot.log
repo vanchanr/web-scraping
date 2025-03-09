@@ -1,0 +1,41 @@
+2025-03-09 06:37:16,650 - INFO - Logging into X.com...
+2025-03-09 06:37:51,339 - ERROR - An error occurred: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"button\"]:has-text(\"Next\")")
+
+2025-03-09 06:38:33,411 - ERROR - An error occurred: BrowserType.launch: Target page, context or browser has been closed
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+Call log:
+  - <launching> /home/codespace/.cache/ms-playwright/chromium-1155/chrome-linux/chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate,HttpsUpgrades,PaintHolding,ThirdPartyStoragePartitioning,LensOverlay,PlzDedicatedWorker --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --no-sandbox --user-data-dir=/tmp/playwright_chromiumdev_profile-hnm9Vq --remote-debugging-pipe --no-startup-window
+  -   - <launched> pid=18489
+  -   - [pid=18489][err] [18489:18504:0309/063833.297562:ERROR:bus.cc(408)] Failed to connect to the bus: Failed to connect to socket /var/run/dbus/system_bus_socket: No such file or directory
+  -   - [pid=18489][err] [18489:18489:0309/063833.347145:ERROR:ozone_platform_x11.cc(245)] Missing X server or $DISPLAY
+  -   - [pid=18489][err] [18489:18489:0309/063833.347175:ERROR:env.cc(257)] The platform failed to initialize.  Exiting.
+
+2025-03-09 06:42:17,646 - INFO - Logging into X.com...
+2025-03-09 06:42:51,603 - ERROR - An error occurred: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div[role=\"button\"]:has-text(\"Next\")")
+
+2025-03-09 06:49:04,247 - INFO - Logging into X.com...
+2025-03-09 06:49:38,956 - ERROR - An error occurred: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[type=\"password\"]") to be visible
+
+2025-03-09 06:54:09,144 - INFO - Logging into X.com...
+2025-03-09 06:54:44,164 - ERROR - An error occurred: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[type=\"password\"]") to be visible
+
+2025-03-09 07:02:12,333 - INFO - Logging into X.com...
+2025-03-09 07:02:47,943 - ERROR - An error occurred: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[type=\"password\"]") to be visible
+

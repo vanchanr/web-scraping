@@ -1,0 +1,12 @@
+{
+  "username": "your_x_username_or_email",
+  "password": "your_x_password",
+  "headless": false,
+  "accounts_to_follow": [
+    "elonmusk",
+    "github",
+    "Microsoft",
+    "OpenAI",
+    "GoogleAI"
+  ]
+}
